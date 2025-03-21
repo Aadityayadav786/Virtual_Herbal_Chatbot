@@ -1,0 +1,7 @@
+streamlit
+PyPDF2
+cohere
+python-dotenv
+pandas
+numpy
+requests
